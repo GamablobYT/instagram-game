@@ -73,5 +73,7 @@ export const whitelist = [
   'akash_karatia15',
   'raman_yashasvi14',
   'agrawalninad',
+  'murakami_kumiko_',
+  'lilblackmoonlilith',
   // Add more usernames as needed
 ];
